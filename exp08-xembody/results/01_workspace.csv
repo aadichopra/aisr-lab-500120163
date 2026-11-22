@@ -1,0 +1,5 @@
+robot,arm_dof,max_reach_m,task_coverage_pct
+kuka_iiwa,7,0.820,100.0
+franka_panda,7,0.855,100.0
+xarm6,6,0.700,92.5
+kuka_mini,7,0.410,38.0

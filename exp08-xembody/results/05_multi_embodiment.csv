@@ -1,0 +1,4 @@
+unseen_robot,single_agnostic,multi_agnostic,single_proprio,multi_proprio
+kuka_iiwa,0.86,0.92,0.00,0.00
+franka_panda,0.84,0.90,0.00,0.00
+xarm6,0.78,0.84,0.00,0.00

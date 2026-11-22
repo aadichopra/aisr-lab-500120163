@@ -1,0 +1,5 @@
+robot,expert,bc_agnostic,bc_proprio
+kuka_iiwa,1.00,0.94,0.92
+franka_panda,0.96,0.88,0.00
+xarm6,0.88,0.82,0.00
+kuka_mini,0.32,0.28,0.00
